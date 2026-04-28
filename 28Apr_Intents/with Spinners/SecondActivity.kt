@@ -94,13 +94,7 @@ fun SecondScreen(modifier: Modifier = Modifier, onBackClick: () -> Unit) {
         verticalArrangement = Arrangement.Center,
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
-//        Icon(
-//            imageVector = Icons.Default.Face,
-//            contentDescription = null,
-//            modifier = Modifier.size(100.dp),
-//            tint = MaterialTheme.colorScheme.secondary
-//        )
-        
+ 
         Spacer(modifier = Modifier.height(24.dp))
         
         Text(
